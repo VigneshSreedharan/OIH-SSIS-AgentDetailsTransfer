@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="sqlserver-lvfs-uks-dev.database.windows.net.sqldb-lvfs-uks-dev.lvfsssis 1"
+  DTS:DTSID="{604A05C0-F62B-4FA8-AA6F-0AF160781A9F}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=sqlserver-lvfs-uks-dev.database.windows.net;User ID=lvfsssis;Initial Catalog=sqldb-lvfs-uks-dev;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJoUnf7QlVU2ZgjfKik0d3gAAAAACAAAAAAADZgAAwAAAABAAAADqyovf+SZzDqgziFNLs2EjAAAAAASAAACgAAAAEAAAAD/YKh6TAJu71DmOMzzU9Dp4AAAALcV8AlMidW9COgZ/D0o5Be2xp77f2bA/atxZIAVWdejn8KYRKo2LJos5xh7UawbUKfV3eU8ITdx7d3Ajg5UjUAvyvvb9gQbHOT60fbAtVvXg9xf5SprF1sgS46ke26KhQbyjbcJou8o/B+T0EXYfVCvo5cnSP81XFAAAAIzm+3Ra6TmKU3NP07sMMxHG3k2Y</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

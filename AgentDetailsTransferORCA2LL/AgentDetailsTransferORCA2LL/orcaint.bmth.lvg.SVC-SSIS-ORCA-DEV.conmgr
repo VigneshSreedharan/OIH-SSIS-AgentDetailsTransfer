@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="orcaint.bmth.lvg.SVC-SSIS-ORCA-DEV"
+  DTS:DTSID="{DE32D1B0-41BB-448B-8C8F-76AD3699F60F}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=orcaint.bmth.lvg;User ID=SVC-SSIS-ORCA-DEV;Provider=OraOLEDB.Oracle.1;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAD8RebEY0wEqjaJF9YNiDOwAAAAACAAAAAAADZgAAwAAAABAAAAASP5cgRXSAJY8V02T/bsFSAAAAAASAAACgAAAAEAAAAP7KwDoMcpe0YTkL/4iwShp4AAAAHhEd8d6HAqpuze3CjacgHN7SGy6CjnITgG3vhHhsY/ztqgpxk1qZwjXw57tcd4mrMb0CkODDclPdXqhUrAWcE5zxuKVpw6sCnDi/9Lrl+PeEAfsW8XcLDV1fq7JlI/4VszdeH1mKqdLjDQJw+g1WC45tO/NWP9p6FAAAACyfwFaoI+XHci/EVTg8ukWvADWI</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

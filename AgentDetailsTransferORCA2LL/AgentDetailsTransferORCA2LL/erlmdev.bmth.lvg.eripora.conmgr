@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="erlmdev.bmth.lvg.eripora"
+  DTS:DTSID="{C8D6DE2E-B64B-425B-A22F-A9BD4D39EBB4}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=erlmdev.bmth.lvg;User ID=eripora;Provider=MSDAORA.1;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAD8RebEY0wEqjaJF9YNiDOwAAAAACAAAAAAADZgAAwAAAABAAAACKEis63NG8Bqp4cbhWInt9AAAAAASAAACgAAAAEAAAABefhSUi/hQusAnJbk0r2Mp4AAAAIkjNt8PAjJ/7acpDWCs3nzl8TUfslLQGmnQvnG0IR3JHBR181XSDNXKz33v1Io9LJ747fsXsdu0kdW6kfrl5L+pjsimdGBDJqbp1gu8CEoSjvof6p0HEl2P1bcsu//gEtKv1WlBR/c1kM6uw8jp6/YCapOUsP7qnFAAAABvWFOxHd94MC94GvYUHHigKIhU+</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
